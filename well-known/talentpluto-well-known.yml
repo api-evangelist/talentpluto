@@ -1,0 +1,21 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of https://talentpluto.com/.well-known/*
+host: https://talentpluto.com
+documents:
+- path: /.well-known/security.txt
+  status: 404
+- path: /.well-known/openid-configuration
+  status: 404
+- path: /.well-known/oauth-authorization-server
+  status: 404
+- path: /.well-known/api-catalog
+  status: 404
+- path: /.well-known/ai-plugin.json
+  status: 404
+- path: /llms.txt
+  status: 404
+notes: >-
+  No .well-known discovery documents, llms.txt, or agent-plugin manifests are
+  published. api./developers./docs. subdomains do not resolve. Talentpluto is a
+  consumer/recruiter product with no machine-facing API surface at profiling.
