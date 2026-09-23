@@ -1,0 +1,27 @@
+# Front Door AI Index — talentpluto — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: talentpluto
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: talentpluto.com
+  final_host: talentpluto.com
+  ownership: own
+  owner: talentpluto
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 41
+  host_score: 41
+  density: 22.39
+  words: 1831
+  tiers:
+    agentic: 15
+    core: 26
+    model: 0
+  ambiguous: 27
+  top_terms:
+    agent: 27
+    AI: 26
+    AI agent: 15
